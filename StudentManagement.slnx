@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/Shared.Contracts/Shared.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="Services/AuthService/AuthService.csproj" />
+    <Project Path="Services/CourseService/CourseService.csproj" />
+    <Project Path="Services/EnrollmentService/EnrollmentService.csproj" />
+    <Project Path="Services/StudentService/StudentService.csproj" />
+  </Folder>
+</Solution>

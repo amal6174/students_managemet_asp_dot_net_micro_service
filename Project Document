@@ -1,0 +1,31 @@
+documentation
+
+
+3. Next: StudentService development
+Ab hum proper layered architecture follow karenge:
+
+StudentService/
+│
+├── Controllers/
+│   └── StudentController.cs
+│
+├── Models/
+│   └── Student.cs
+│
+├── Data/
+│   └── ApplicationDbContext.cs
+│
+├── DTOs/
+│   ├── StudentCreateDto.cs
+│   └── StudentUpdateDto.cs
+│
+├── Repositories/
+│   ├── IStudentRepository.cs
+│   └── StudentRepository.cs
+│
+├── Services/
+│   ├── IStudentService.cs
+│   └── StudentService.cs
+│
+├── Program.cs
+└── appsettings.json

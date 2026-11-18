@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "828zwjqE5iU=",
+  "success": true,
+  "projectFilePath": "/home/info222/CSharp/StudentManagement/Services/CourseService/CourseService.csproj",
+  "expectedPackageFiles": [
+    "/home/info222/.nuget/packages/microsoft.aspnetcore.openapi/10.0.14/microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "/home/info222/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
