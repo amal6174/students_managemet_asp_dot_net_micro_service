@@ -31,3 +31,4 @@
 /home/info222/CSharp/StudentManagement/Services/EnrollmentService/obj/Debug/net10.0/EnrollmentService.pdb
 /home/info222/CSharp/StudentManagement/Services/EnrollmentService/obj/Debug/net10.0/EnrollmentService.genruntimeconfig.cache
 /home/info222/CSharp/StudentManagement/Services/EnrollmentService/obj/Debug/net10.0/ref/EnrollmentService.dll
+/home/info222/CSharp/StudentManagement/Services/EnrollmentService/obj/Debug/net10.0/EnrollmentService.sourcelink.json

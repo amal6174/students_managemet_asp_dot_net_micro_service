@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using StudentService.Data;
+using StudentService.Repositories;
+using StudentService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +26,15 @@ if (string.IsNullOrWhiteSpace(connectionString))
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySQL(connectionString)
 );
+
+
+// Register Repository
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+
+
+// Register Service
+builder.Services.AddScoped<IStudentService, StudentService.Services.StudentService>();
+
 
 
 

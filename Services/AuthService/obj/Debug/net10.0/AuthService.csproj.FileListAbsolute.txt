@@ -31,3 +31,4 @@
 /home/info222/CSharp/StudentManagement/Services/AuthService/obj/Debug/net10.0/AuthService.pdb
 /home/info222/CSharp/StudentManagement/Services/AuthService/obj/Debug/net10.0/AuthService.genruntimeconfig.cache
 /home/info222/CSharp/StudentManagement/Services/AuthService/obj/Debug/net10.0/ref/AuthService.dll
+/home/info222/CSharp/StudentManagement/Services/AuthService/obj/Debug/net10.0/AuthService.sourcelink.json
